@@ -19,9 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Brett's Website
-author:
-  name: Brett Ables
-  email: "brett@brettables.com"
+author: Brett Ables
+email: "brett@brettables.com"
 description: Personal website and blog of Brett Ables
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://brettables.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,12 +28,10 @@ permalink: /blog/:year/:month/:day/:title
 # Build settings
 theme: minima
 
-minima:
-    social_links:
-        twitter: flutefreak7
-        github: flutefreak7
-        stackoverflow: flutefreak7
-        facebook: brett.ables
+twitter: flutefreak7
+github: flutefreak7
+stackoverflow: flutefreak7
+facebook: brett.ables
 
 # Exclude from processing.
 # The following items will not be processed, by default.
