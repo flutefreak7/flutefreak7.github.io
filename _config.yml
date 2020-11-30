@@ -27,7 +27,7 @@ twitter_username: flutefreak7
 github_username:  flutefreak7
 permalink: /blog/:year/:month/:day/:title
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 
 
 # Exclude from processing.
