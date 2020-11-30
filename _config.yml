@@ -28,10 +28,9 @@ permalink: /blog/:year/:month/:day/:title
 # Build settings
 theme: minima
 
-twitter: flutefreak7
-github: flutefreak7
-stackoverflow: flutefreak7
-facebook: brett.ables
+twitter_username: flutefreak7
+github_username: flutefreak7
+facebook_username: brett.ables
 
 # Exclude from processing.
 # The following items will not be processed, by default.
