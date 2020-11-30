@@ -20,8 +20,7 @@
 
 title: Brett's Blog
 email: brett@brettables.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal website/blog of Brett Ables. I'm an aerospace engineer working in solid propulsion at NASA. I do a lot of Python programming, I like science fiction and video games, and I enjoy banging on the piano and writing poetry.
+description: Personal website and blog of Brett Ables
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://brettables.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: flutefreak7
