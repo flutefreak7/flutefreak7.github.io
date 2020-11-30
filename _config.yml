@@ -27,6 +27,7 @@ url: "http://brettables.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: flutefreak7
 github_username:  flutefreak7
 
+permalink: /blog/:year/:month/:day/:title
 # Build settings
 theme: minima
 plugins:
