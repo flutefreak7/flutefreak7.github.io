@@ -7,7 +7,7 @@ date: 2021-5-25
 ## Shattered Tranquility
 
 Kin to the undulating waters of a barge's wake,  
-&nbsp;&nbsp;&nbsp;&nbsp;or the agonizing shards of a mirrors jagged break,  
+&nbsp;&nbsp;&nbsp;&nbsp;or the agonizing shards of a mirror's jagged break,  
 Several cloaked feelings are inevitably at stake;  
 &nbsp;&nbsp;&nbsp;&nbsp;how many repercussions can one instance make?  
 
