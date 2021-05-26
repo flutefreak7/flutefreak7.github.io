@@ -6,15 +6,15 @@ date: 2021-5-25
 
 ## Shattered Tranquility
 
-Kin to the undulating waters of a barge's wake,
-&nbsp;&nbsp;&nbsp;&nbsp;or the agonizing shards of a mirrors jagged break,
-Several cloaked feelings are inevitably at stake;
-&nbsp;&nbsp;&nbsp;&nbsp;how many repercussions can one instance make?
+Kin to the undulating waters of a barge's wake,  
+&nbsp;&nbsp;&nbsp;&nbsp;or the agonizing shards of a mirrors jagged break,  
+Several cloaked feelings are inevitably at stake;  
+&nbsp;&nbsp;&nbsp;&nbsp;how many repercussions can one instance make?  
 
-Henceforth my fate has made a playful game of guilt;
-&nbsp;&nbsp;&nbsp;&nbsp;my future seemed so innocent without a blemish or wilt.
-Upon May’s due turbulence my heart’s gyro will tilt,
-&nbsp;&nbsp;&nbsp;&nbsp;cursing demolition to the foundation I’ve built.
+Henceforth my fate has made a playful game of guilt;  
+&nbsp;&nbsp;&nbsp;&nbsp;my future seemed so innocent without a blemish or wilt.  
+Upon May’s due turbulence my heart’s gyro will tilt,  
+&nbsp;&nbsp;&nbsp;&nbsp;cursing demolition to the foundation I’ve built.  
 
 ## Discussion
 
