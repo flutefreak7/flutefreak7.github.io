@@ -6,10 +6,10 @@ date: 2021-5-28
 
 ## Moving Air
 
-While Mighty Ocean winds aid waves in their roll,
-&nbsp;&nbsp;&nbsp;&nbsp;the delicate sea breeze playfully tickles the soul.
-While caressing the skin as it wanders its way,
-&nbsp;&nbsp;&nbsp;&nbsp;It caresses within, blessing with beauty a beautiful day.
+While Mighty Ocean winds aid waves in their roll,  
+&nbsp;&nbsp;&nbsp;&nbsp;the delicate sea breeze playfully tickles the soul.  
+While caressing the skin as it wanders its way,  
+&nbsp;&nbsp;&nbsp;&nbsp;It caresses within, blessing with beauty a beautiful day.  
 
 ## Discussion
 
