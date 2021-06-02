@@ -24,14 +24,14 @@ It is not the same
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is a circle of infinite points not defined by a single point?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The circle, a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;distance
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The circle, a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;distance  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from the defining .point.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ‘renaissance man,’
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O! so well-rounded
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ‘renaissance man,’  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O! so well-rounded  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Puts circles to shame.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;distant,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;distant,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from the defining .point.
 
 spiraling, swirling, contorting  
