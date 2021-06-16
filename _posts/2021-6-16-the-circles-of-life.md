@@ -83,7 +83,7 @@ While I'm covering literary references, there's also "trally lally lally" which 
 
 > Hey dol! merry dol! ring a dong dillo! Ring a dong! hop along! fal lal the willow! Tom Bom, jolly Tom, Tom Bombadillo!
 
-Finally, I replaced "valley" with "the base of history's mountain" in reference to [Isaiah 40:4](https://biblehub.com/niv/isaiah/40.htm), and similar verses throughout the Bible which use the changing landscape of the Earth as an image for both the granduer and timescale on which God operates:
+Finally, I replaced "valley" with "the base of history's mountain" in reference to [Isaiah 40:4](https://biblehub.com/niv/isaiah/40.htm), and similar verses throughout the Bible which use the changing landscape of the Earth as an image for both the grandeur and timescale on which God operates:
 
 > Every valley shall be raised up, every mountain and hill made low; the rough ground shall become level, the rugged places a plain.
 
@@ -93,4 +93,4 @@ So I liken the arc of the moon across the sky to a footbag God has kicked into m
 
 In the last 3 stanzas I make reference to how God's endgage is black and white, as if all creation were being spun outward to one of two extremities. I say that we should continue in our arc, like the moon, implying that while we may never understand the workings of the universe, we can succeed as part of it by fulfilling our purpose, by continuing on the trajectory God put us on. As I look back on the poem and critique it, I find myself disatisfied with the end because it makes a poor attempt to answer the very question that I said is unanswerable. Perhaps this is evidence of how I feel now about the answers Solomon gives at the end of Ecclesiastes, to simply obey God and enjoy what he gave you, because trying to make yourself happy any other way is meaningless.
 
-I wanted to share this poem because I love the imagery of a universe made of cicles, the implications of eternity, the tie-in with footbag, and the mirroring of the messages in Ecclesiastes. All that said it has me frustrated and pondering the meaning of life, which -- perhaps -- is a greater achievement than any clever wordplay could ever hope to achieve.
+I wanted to share this poem because I love the imagery of a universe made of circles, the implications of eternity, the tie-in with footbag, and the mirroring of the messages in Ecclesiastes. All that said it has me frustrated and pondering the meaning of life, which -- perhaps -- is a greater achievement than any clever wordplay could ever hope to achieve.
