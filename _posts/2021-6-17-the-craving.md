@@ -11,7 +11,7 @@ Again I welcome the unwelcome guest
 Riding, riding still abiding  
 On this journey I must face the test  
 Even on this journey I find no rest.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With this trial, I am blessed
+<div style="padding-left:20.00em;">With this trial, I am blessed</div>
 
 Longing, longing, for those I am wronging  
 Loving wrongly those I love best  
