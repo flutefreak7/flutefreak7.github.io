@@ -73,7 +73,7 @@ Circles are also a symbol for infinity, for things that repeat cyclicly. "the wi
 
 > I have seen all the things that are done under the sun; all of them are meaningless, a chasing after the wind.
 
-Throughout Ecclesiastes, Solomon lays out a logical, evidence-based argument for why wisdom, pleasures, folly, toil, advancement, and riches are all meaningless. This spirit of seeing a glimpse of eternity and being unsure what to make of it all is also expressed in (Ecclesiastes 8:16-17](https://www.biblegateway.com/passage/?search=Ecclesiastes%208&version=NIV):
+Throughout Ecclesiastes, Solomon lays out a logical, evidence-based argument for why wisdom, pleasures, folly, toil, advancement, and riches are all meaningless. This spirit of seeing a glimpse of eternity and being unsure what to make of it all is also expressed in [Ecclesiastes 8:16-17](https://www.biblegateway.com/passage/?search=Ecclesiastes%208&version=NIV):
 
 > When I applied my mind to know wisdom and to observe the labor that is done on earth—people getting no sleep day or night— then I saw all that God has done. No one can comprehend what goes on under the sun. Despite all their efforts to search it out, no one can discover its meaning. Even if the wise claim they know, they cannot really comprehend it.
 
